@@ -1,12 +1,12 @@
-import './App.css'
+import './App.scss'
+import { Navbar } from './common-app/navbar/navbar.component'
 
-function App() {
+export const App = () => {
 
   return (
     <>
-      <h1>Vite + React</h1>
+      <Navbar/>
     </>
   )
 }
 
-export default App
