@@ -1,0 +1,5 @@
+export * from './aboutMe.scene'
+export * from './education.scene'
+export * from './experience.scene'
+export * from './project.scene'
+export * from './home.scene'

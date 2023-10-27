@@ -1,12 +1,6 @@
+import { RouterComponent } from './core/router'
 import './App.scss'
-import { Navbar } from './common-app/navbar/navbar.component'
 
-export const App = () => {
+export const App = () => <><RouterComponent /></>
 
-  return (
-    <>
-      <Navbar/>
-    </>
-  )
-}
 
