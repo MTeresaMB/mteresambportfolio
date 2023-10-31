@@ -7,75 +7,107 @@
    viewBox="0 0 21.841068 4.864109"
    version="1.1"
    id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="15.687667"
+     inkscape:cx="40.5414"
+     inkscape:cy="9.211057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="7.7919486,2.3848525"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-53.635236,-117.68705)">
+     transform="translate(-53.635236,-117.68705)"
+     style="fill:#20262e;fill-opacity:1">
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="56.659714"
-       y="122.49893"
+       style="font-size:4.23333px;fill:#e9e8e8;fill-opacity:1;stroke-width:0.264583"
+       x="56.187477"
+       y="122.53266"
        id="text1"><tspan
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="56.659714"
-         y="122.49893">DEV</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#e9e8e8;fill-opacity:1;stroke-width:0.264583"
+         x="56.187477"
+         y="122.53266">DEV</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="53.110203"
-       y="122.68745"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e9e8e8;fill-opacity:1;stroke-width:0.264583"
+       x="53.491787"
+       y="122.87298"
        id="text4"><tspan
          id="tspan4"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="53.110203"
-         y="122.68745">&lt;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e9e8e8;fill-opacity:1;stroke-width:0.264583"
+         x="53.491787"
+         y="122.87298">&lt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.18757px;fill:#ffffff;fill-opacity:1;stroke-width:0.199223"
-       x="59.694305"
-       y="146.01854"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.92759px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e9e8e8;fill-opacity:1;stroke-width:0.210883"
+       x="75.423309"
+       y="115.04981"
        id="text5"
-       transform="scale(1.1953513,0.83657415)"><tspan
+       transform="scale(0.94054187,1.0632169)"><tspan
          id="tspan5"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.199223"
-         x="59.694305"
-         y="146.01854">/</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.92759px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e9e8e8;fill-opacity:1;stroke-width:0.210883"
+         x="75.423309"
+         y="115.04981">/</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="72.536949"
-       y="122.6622"
-       id="text6"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31885px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e9e8e8;fill-opacity:1;stroke-width:0.307966"
+       x="68.703926"
+       y="129.47717"
+       id="text6"
+       transform="scale(1.0552821,0.94761393)"><tspan
          id="tspan6"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="72.536949"
-         y="122.6622">&gt;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31885px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e9e8e8;fill-opacity:1;stroke-width:0.307966"
+         x="68.703926"
+         y="129.47717">&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.14517px;fill:#a03b52;fill-opacity:1;stroke-width:0.384072"
-       x="68.885666"
+       style="font-size:6.14517px;fill:#913175;fill-opacity:1;stroke-width:0.384072"
+       x="67.907494"
        y="114.10136"
        id="text7"
        transform="scale(0.93106965,1.0740335)"><tspan
          id="tspan7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill:#a03b52;fill-opacity:1;stroke-width:0.384072"
-         x="68.885666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill:#913175;fill-opacity:1;stroke-width:0.384072"
+         x="67.907494"
          y="114.10136">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31056px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill:#a03b52;fill-opacity:1;stroke-width:0.39441"
-       x="77.755798"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31056px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill:#913175;fill-opacity:1;stroke-width:0.39441"
+       x="76.709625"
        y="106.6932"
        id="text8"
        transform="scale(0.87055031,1.1486987)"><tspan
          id="tspan8"
-         style="fill:#a03b52;fill-opacity:1;stroke-width:0.39441"
-         x="77.755798"
+         style="fill:#913175;fill-opacity:1;stroke-width:0.39441"
+         x="76.709625"
          y="106.6932">T</tspan></text>
   </g>
 </svg>

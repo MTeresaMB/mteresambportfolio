@@ -1,8 +1,12 @@
 import React from 'react';
+import { Navbar } from '@common-app/navbar';
 import './project.styles.scss';
 
 export const Project: React.FC = () => {
   return (
-    <div>Project section</div>
+    <>
+      <Navbar/>
+      <p>Projects section</p>
+    </>
   )
 }

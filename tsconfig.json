@@ -10,6 +10,7 @@
       "@pods/*": ["./src/pods/*"],
       "@scenes/*": ["./src/scenes/*"],
       "@common-app/*": ["./src/common-app/*"],
+      "@public/*": ["./public/*"],
     },
     /* Bundler mode */
     "moduleResolution": "bundler",

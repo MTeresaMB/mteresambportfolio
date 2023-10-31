@@ -2,16 +2,14 @@ interface SwitchRoutes {
   root: string;
   home: string;
   aboutMe: string;
-  experience: string;
-  education: string;
   project: string;
+  contact: string;
 }
 
 export const switchRoutes: SwitchRoutes = {
   root: "/",
   home: "/home",
   aboutMe: "/aboutme",
-  education: "/education",
-  experience: "/experience",
   project: "/project",
+  contact: "/contact",
 }

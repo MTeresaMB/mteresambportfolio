@@ -1,10 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&display=swap');
-
-.navBar {
+@import "../../core/theme/theme.scss";
+.navbar {
+  padding: 20px;
   display: flex;
-  width: 100%;
-  height: 80px;
-  padding: 10px;
-  color: white;
+  align-items: center;
   justify-content: space-around;
+
+  .navbar-left {
+    font-family: $font-links-nav;
+    font-size: 1.2em;
+    display: flex;
+    gap: 20px;
+    a {
+      color: #fff;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      &:hover {
+        text-decoration: none;
+        border-bottom: 2px solid indianred;
+        transition: border-bottom 0.3s ease-out;
+        color: indianred;
+      }
+    }
+
+    
+  }
+
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    .image {
+      width: 30px;
+      height: 30px;
+      
+      &:hover {
+        animation: bounce 0.3s ease 2;
+      }
+
+      @keyframes bounce {
+        0%, 100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-10px); // Mueve hacia arriba
+        }
+      }
+    }
+  }
+
 }

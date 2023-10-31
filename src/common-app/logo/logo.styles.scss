@@ -1,0 +1,24 @@
+@import '../../core/theme/theme.scss';
+
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-family: $font-logo;
+  font-size: 1.6em;
+  font-weight: bold;
+  width: 4rem;
+  height: 4rem;
+  text-decoration: none;
+  color: #20262E;
+  background: #fff;
+  transition: transform 0.2s;
+  a {
+    text-decoration: none;
+    color: #20262E;
+  }
+  &:hover {
+    transform: scale(1.2);
+  }
+}
